@@ -10,14 +10,23 @@ body {
   min-height: 100vh;
 }
 
-/* Contenedor principal */
-.container {
+/* Contenedor principal con animaciones */
+.form-container {
   background: #fff;
   padding: 30px 40px;
   border-radius: 15px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
   width: 100%;
   max-width: 400px;
+
+  /* Animaciones */
+  opacity: 0;
+  animation-name: aparecer-desde-abajo, flotar;
+  animation-duration: 0.6s, 3s;
+  animation-timing-function: ease-out, ease-in-out;
+  animation-delay: 0s, 0.6s;
+  animation-fill-mode: forwards, none;
+  animation-iteration-count: 1, infinite;
 }
 
 /* Título */
@@ -65,8 +74,33 @@ button:hover {
 }
 
 /* Mensaje de confirmación */
-#confirmacion {
+#successMessage {
   margin-top: 15px;
   font-weight: bold;
   text-align: center;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+#successMessage.visible {
+  opacity: 1;
+}
+
+/* Animación de entrada suave */
+@keyframes aparecer-desde-abajo {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Animación flotante */
+@keyframes flotar {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-8px); }
+  100% { transform: translateY(0); }
 }
