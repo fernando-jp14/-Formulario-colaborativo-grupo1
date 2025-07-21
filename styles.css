@@ -10,8 +10,8 @@ body {
   min-height: 100vh;
 }
 
-/* Contenedor principal */
-.container {
+/* Contenedor principal con animaciones */
+.form-container {
   background: #fff;
   padding: 30px 40px;
   border-radius: 15px;
@@ -74,7 +74,7 @@ button:hover {
 }
 
 /* Mensaje de confirmación */
-#confirmacion {
+#successMessage {
   margin-top: 15px;
   font-weight: bold;
   text-align: center;
@@ -82,7 +82,7 @@ button:hover {
   transition: opacity 0.4s ease;
 }
 
-#confirmacion.visible {
+#successMessage.visible {
   opacity: 1;
 }
 
