@@ -1,0 +1,72 @@
+/* Fondo general */
+body {
+  background: linear-gradient(to right, #8e2de2, #4a00e0);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Contenedor principal */
+.container {
+  background: #fff;
+  padding: 30px 40px;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 400px;
+}
+
+/* Título */
+h1 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #4a00e0;
+}
+
+/* Etiquetas */
+label {
+  font-weight: bold;
+  margin-top: 15px;
+  display: block;
+  color: #333;
+}
+
+/* Campos de entrada */
+input, textarea {
+  width: 100%;
+  padding: 10px 12px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+  resize: vertical;
+}
+
+/* Botón */
+button {
+  background-color: #4a00e0;
+  color: white;
+  padding: 12px;
+  width: 100%;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background-color: #3b00ba;
+}
+
+/* Mensaje de confirmación */
+#confirmacion {
+  margin-top: 15px;
+  font-weight: bold;
+  text-align: center;
+}
