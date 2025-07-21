@@ -53,3 +53,7 @@ Durante este proyecto se desarrolla un **Sprint de 1 día**, en el cual se organ
 - `/capturas`: Imágenes del Trello y actividades realizadas
 - `/retrospectiva.md`: Lecciones aprendidas y mejoras propuestas
 - `/historias_usuario.md`: Historias de usuario definidas
+
+-------------------------------------------------------
+## Link de la página:
+
