@@ -24,6 +24,7 @@ document.getElementById('formulario').addEventListener('submit', function(e) {
     if (res.ok) {
       confirmacion.textContent = "✅ ¡Mensaje enviado y guardado!";
       confirmacion.style.color = "green";
+      confirmacion.classList.add("visible");
       document.getElementById('formulario').reset();
     } else {
       throw new Error("Error al enviar");
@@ -32,5 +33,6 @@ document.getElementById('formulario').addEventListener('submit', function(e) {
   .catch(() => {
     confirmacion.textContent = "❌ Error al conectar con el servidor.";
     confirmacion.style.color = "red";
+    confirmacion.classList.add("visible");
   });
 });
