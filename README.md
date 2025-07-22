@@ -59,4 +59,5 @@ Durante este proyecto se desarrolla un **Sprint de 1 día**, en el cual se organ
 
 -------------------------------------------------------
 ## Link de la página:
+https://fernando-jp14.github.io/-Formulario-colaborativo-grupo1/
 
