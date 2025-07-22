@@ -1,5 +1,16 @@
 # Proyecto: Formulario de contacto con metodología Scrum
 
+## Participantes
+
+- Jorge Huillca  
+- Fernando Julca  
+- Dayana Carrión  
+- Fernando Tadeo  
+- Diego Galiano  
+- Franco Villegas
+
+----------------------------------------------------
+
 ##  Descripción
 
 Este proyecto forma parte del curso **Scrum para Equipos Técnicos en Formación**, y tiene como objetivo aplicar los principios y prácticas del marco de trabajo **Scrum**, enfocado en la gestión ágil de proyectos técnicos.
@@ -61,15 +72,5 @@ Durante este proyecto se desarrolla un **Sprint de 1 día**, en el cual se organ
 ## Link de la página:
 https://fernando-jp14.github.io/-Formulario-colaborativo-grupo1/
 
--------------------------------------------------------
-
-## Participantes
-
-- Jorge Huillca  
-- Fernando Julca  
-- Dayana Carrión  
-- Fernando Tadeo  
-- Diego Galiano  
-- Franco Villegas
 
 
