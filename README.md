@@ -1,4 +1,4 @@
-# Proyecto Formulario de contacto con metodología Scrum
+# Proyecto: Formulario de contacto con metodología Scrum
 
 ##  Descripción
 
@@ -18,13 +18,15 @@ Durante este proyecto se desarrolla un **Sprint de 1 día**, en el cual se organ
 
 -----------------------------------------------
 
-## 🛠 Herramientas Utilizadas
+## Herramientas Utilizadas
 
 -  Trello (tablero Scrum)
 -  Metodología Scrum
 -  Documentación en archivo md.
 -  Git y GitHub.
 -  Checklist de tareas y seguimiento diario.
+-  Visual Studio Code para codificar.
+-  Node js y js server para la simulación API.
 
 ---------------------------------------------------
 
