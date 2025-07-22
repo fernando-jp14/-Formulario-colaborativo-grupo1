@@ -20,13 +20,13 @@ Durante este proyecto se desarrolla un **Sprint de 1 día**, en el cual se organ
 
 ## Herramientas Utilizadas
 
--  Trello (tablero Scrum)
--  Metodología Scrum
--  Documentación en archivo md.
--  Git y GitHub.
--  Checklist de tareas y seguimiento diario.
--  Visual Studio Code para codificar.
--  Node js y js server para la simulación API.
+- Trello (tablero Scrum)
+- Metodología Scrum
+- Documentación en archivo md.
+- Git y GitHub.
+- Checklist de tareas y seguimiento diario.
+- Visual Studio Code para codificar.
+- Node.js y json-server para la simulación API.
 
 ---------------------------------------------------
 
@@ -34,30 +34,42 @@ Durante este proyecto se desarrolla un **Sprint de 1 día**, en el cual se organ
 
 - Product Owner: Jorge Huillca.
 - Scrum Master: Fernando Julca.
-- Development Team: Dayana Carrión, Fernando Tadeo, Diego Galiano, Franco Villegas. 
+- Development Team: Dayana Carrión, Fernando Tadeo, Diego Galiano, Franco Villegas.
 
 ---------------------------------------------------
 
 ##  Sprint Planificado
 
-- **Duración**: 1 día
+- **Duración**: 1 día  
 - **Actividades clave**:
-  - Sprint Planning
-  - Daily Scrum (reflexión del progreso)
-  - Sprint Review
+  - Sprint Planning  
+  - Daily Scrum (reflexión del progreso)  
+  - Sprint Review  
   - Sprint Retrospective
 
 --------------------------------------------------
 
 ##  Estructura del Proyecto
 
-- `/Sistema de contro de versiones` : Uso de Git como terminal para trabajar las mejoras de cada dev y GitHub para crear un repositorio donde se sube el producto final.
-- `/codificación` : Los desarrolladores realizan los archivos necesarios para le proyecto.
-- `/metodología` : Uso de la metodología ágil Scrum en Trello.
-- `/documentacion`: Información acerca del proyecto en el README.md del repositorio.
-
+- `/Sistema de control de versiones`: Uso de Git como terminal para trabajar las mejoras de cada dev y GitHub para crear un repositorio donde se sube el producto final.
+- `/codificación`: Los desarrolladores realizan los archivos necesarios para el proyecto.
+- `/metodología`: Uso de la metodología ágil Scrum en Trello.
+- `/documentación`: Información acerca del proyecto en el README.md del repositorio.
 
 -------------------------------------------------------
+
 ## Link de la página:
 https://fernando-jp14.github.io/-Formulario-colaborativo-grupo1/
+
+-------------------------------------------------------
+
+## Participantes
+
+- Jorge Huillca  
+- Fernando Julca  
+- Dayana Carrión  
+- Fernando Tadeo  
+- Diego Galiano  
+- Franco Villegas
+
 
