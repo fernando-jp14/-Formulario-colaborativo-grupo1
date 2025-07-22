@@ -49,10 +49,11 @@ Durante este proyecto se desarrolla un **Sprint de 1 día**, en el cual se organ
 
 ##  Estructura del Proyecto
 
-- `/documentacion`: Reportes y evidencias del Sprint
-- `/capturas`: Imágenes del Trello y actividades realizadas
-- `/retrospectiva.md`: Lecciones aprendidas y mejoras propuestas
-- `/historias_usuario.md`: Historias de usuario definidas
+- `/Sistema de contro de versiones` : Uso de Git como terminal para trabajar las mejoras de cada dev y GitHub para crear un repositorio donde se sube el producto final.
+- `/codificación` : Los desarrolladores realizan los archivos necesarios para le proyecto.
+- `/metodología` : Uso de la metodología ágil Scrum en Trello.
+- `/documentacion`: Información acerca del proyecto en el README.md del repositorio.
+
 
 -------------------------------------------------------
 ## Link de la página:
